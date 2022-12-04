@@ -14,10 +14,6 @@ I learned how to:
     <li>Create an image hyperlink in a markdown file</li>
 </ul>
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 Click one of the three hyperlinks at the top of the page to jump down the page to their descriptive content.
